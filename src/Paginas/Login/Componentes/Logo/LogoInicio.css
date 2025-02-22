@@ -1,0 +1,15 @@
+body {
+    background: rgb(29,14,41);
+    background: linear-gradient(180deg, rgba(29,14,41,1) 73%, rgba(0,0,0,1) 92%);
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.imagem-logo{
+    width: 540px;
+    height: 203px;
+    margin-top: 50px;
+    margin-left: 300px;
+}
+

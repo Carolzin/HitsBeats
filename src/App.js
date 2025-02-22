@@ -1,9 +1,11 @@
-
-import './App.css';
+import Login from './Paginas/Login/Login';
 
 function App() {
-  return <h1> olá, react!</h1>
-    
+    return (
+        <div>
+            <Login />
+        </div>
+    );
 }
 
 export default App;
